@@ -1,8 +1,19 @@
 import pandas as pd
 import numpy as np 
+
+## sklearn
 from sklearn.metrics import confusion_matrix, classification_report
 from sklearn.metrics import recall_score, precision_score, f1_score, accuracy_score
 
+## nltk
+from nltk import word_tokenize          
+from nltk.stem import WordNetLemmatizer 
+
+
+## Classes
+
+
+## Functions
 
 def print_report(y_true, prediction):
     print('Confusion Matrix')
@@ -27,3 +38,4 @@ def vectorize_X(vectorizer, X_train, X_test):
     X_train_vectorized = vectorizer.fit_transform(X_train)
     X_test_vectorized  = vectorizer.transform(X_test)
     return X_train_vectorized, X_test_vectorized
+
