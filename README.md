@@ -28,3 +28,9 @@ The repository also contains a function.py for reusable functions.
 Two types of model where tested: 1)  Multinomial Naive Bayes and a 2) Suppor Vector Classifier. Both Models perform a little bit above 80% on the amazon reviews database. A pseudo Cross-Validation was performed to check wether Variance of the model in this situation. The decisions was to run the model in different sections of the amazon reviews comments and then look at the mean and the standard deviation. 
 
 <br> Even though both models performed similar, the SVC was selected for the classifier because it provided useful information on the probability of the result specially on the false positives and false negatives.
+
+### Resources
+https://www.kaggle.com/
+https://www.kaggle.com/code/trunganhdinh/spam-classification
+https://machinelearningmastery.com/
+https://www.youtube.com/c/joshstarmer
