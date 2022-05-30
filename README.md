@@ -30,7 +30,7 @@ Two types of model where tested: 1)  Multinomial Naive Bayes and a 2) Suppor Vec
 <br> Even though both models performed similar, the SVC was selected for the classifier because it provided useful information on the probability of the result specially on the false positives and false negatives.
 
 ### Resources
-https://www.kaggle.com/
+https://www.kaggle.com/<br>
 https://www.kaggle.com/code/trunganhdinh/spam-classification
-https://machinelearningmastery.com/
+https://machinelearningmastery.com/<br>
 https://www.youtube.com/c/joshstarmer
