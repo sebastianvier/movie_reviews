@@ -31,6 +31,6 @@ Two types of model where tested: 1)  Multinomial Naive Bayes and a 2) Suppor Vec
 
 ### Resources
 https://www.kaggle.com/<br>
-https://www.kaggle.com/code/trunganhdinh/spam-classification
+https://www.kaggle.com/code/trunganhdinh/spam-classification<br>
 https://machinelearningmastery.com/<br>
 https://www.youtube.com/c/joshstarmer
